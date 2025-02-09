@@ -4,3 +4,4 @@
 /dist
 /MCS-Format Backup
 *.spec
+/.VS*/*

@@ -137,5 +137,3 @@ class FileManager:
         backupPathList = self.generateBackupPaths()
         for path,backUpPath in zip(self.asmPathList,backupPathList):
             self.backupFile(path,backUpPath)
-
-
