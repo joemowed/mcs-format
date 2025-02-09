@@ -12,6 +12,7 @@ Only works with the 4 types of input lines described in the AVR assembler manual
 2. [label:] instruction [operands] [Comment]
 3. Comment
 4. Empty line
+
 Other types of input lines such as [label:] [Comment] are not implemented and may result in lost code.
 
 Created by Joe Maloney for ECE 412 Lab1
